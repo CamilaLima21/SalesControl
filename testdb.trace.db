@@ -1,0 +1,3 @@
+2022-10-16 19:54:57 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "CPF_CLIENTE CHARACTER VARYING(11)": "'111222333-45' (12)"; SQL statement:
+/* insert br.com.salescontrol.models.ClienteModel */ insert into tb_clientes (id_cliente, cpf_cliente, ende [22001-214]
